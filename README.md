@@ -10,3 +10,6 @@ My goals:
 
 Day 1: Created my profile and this repo
 Day 2: Learning to edit and commit
+## My First Merged PRs
+- First PR merged: firstcontributions #128133 - Added my name to Contributors
+- Second PR: zero-to-mastery start-here-guidelines - Added my name to CONTRIBUTORS
